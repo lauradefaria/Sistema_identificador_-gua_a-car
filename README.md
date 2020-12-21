@@ -22,7 +22,7 @@ Para programar a ESP8266 no VS Code, torna-se necessário instalar uma extensão
 
 <h2 id="obr">Conteúdo obrigatório</h2>
 
-<h5 id='sim'>Esquemático e simulações</h5>
+<h3 id='sim'>Esquemático e simulações</h3>
 
 As simulações foram realizadas através dos softwares Proteus e LTspice, uma vez que houve falhas no controle do offset pelo Proteus. Assim, para uma melhor funcionalidade, simulou-se todas as partes separadamente. Os nomes dos arquivos são "Completo" e "Offset".
 
@@ -30,7 +30,7 @@ Os esquemáticos se encontram na seção "Resultados - Esquemático" e seus resu
 
 O código do arduino (pwm) está na pasta "potentiostat_Arduino", e deve ser incluido no Proteus, como demonstrado no anexo. Já as bibliotecas, se encontram na pasta "Extra", as quais serão incluidas seguindo o protocólo constatado nos anexos.
 
-<h6 id='cir'>Placa de circuito impresso</h6>
+<h3 id='cir'>Placa de circuito impresso</h3>
 
 A vizualização 3D e ligações da placa de circuito impresso localizam-se na seção "Resultados - Placa de circuito impresso" do pdf.
 
