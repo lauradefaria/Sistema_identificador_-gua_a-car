@@ -30,6 +30,8 @@ Os esquemáticos se encontram na seção "Resultados - Esquemático" e seus resu
 
 O código do arduino (pwm) está na pasta "potentiostat_Arduino", e deve ser incluido no Proteus, como demonstrado no anexo. Já as bibliotecas, se encontram na pasta "Extra", as quais serão incluidas seguindo o protocólo constatado nos anexos.
 
+Observação: Os arquivos do proteus estão no formato para design da PCB, para simular a parte de conversão do sinal ou corversor corrente-tensão, deve-se substituir oas "Tblock" por fontes de tensão correspondetes. Além disso, precisa-se mudar a "Entrada" para o pino 10 do Arduino uno e retirar a ESP8266, uma vez que ela não é simulável.
+
 <h3 id='cir'>Placa de circuito impresso</h3>
 
 A vizualização 3D e ligações da placa de circuito impresso localizam-se na seção "Resultados - Placa de circuito impresso" do pdf.
