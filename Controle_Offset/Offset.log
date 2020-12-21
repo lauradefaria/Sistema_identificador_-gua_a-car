@@ -1,0 +1,30 @@
+Circuit: * C:\Users\acer\Documents\PESSOAL\SIFILIS_NAO\Offset.asc
+
+WARNING: Node NC_02 is floating.
+WARNING: Node NC_01 is floating.
+
+WARNING: Less than two connections to node NC_02.  This node is used by G:U2:1.
+WARNING: Less than two connections to node NC_01.  This node is used by G:U2:1.
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+
+Date: Mon Dec 21 06:32:52 2020
+Total elapsed time: 0.827 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 10077
+traniter = 10070
+tranpoints = 5036
+accept = 5033
+rejected = 3
+matrix size = 40
+fillins = 56
+solver = Normal
+Matrix Compiler1: 4.50 KB object code size  1.1/0.7/[0.4]
+Matrix Compiler2: 4.03 KB object code size  0.5/0.8/[0.4]
+
