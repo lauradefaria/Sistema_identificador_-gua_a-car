@@ -20,7 +20,7 @@ Os principais pré-requisito são os softwares: LTspice, Proteus (v8.6), Arduino
 
 Para programar a ESP8266 no VS Code, torna-se necessário instalar uma extensão chamada "PlatformIO". Além disso, precisa-se adicionar algumas bibliotecas que não estão presentes nos softwares listados, possuindo um guia de instalação nos anexos do pdf.
 
-<h4 id="obr">Conteúdo obrigatório</h4>
+<h2 id="obr">Conteúdo obrigatório</h2>
 
 <h5 id='sim'>Esquemático e simulações</h5>
 
