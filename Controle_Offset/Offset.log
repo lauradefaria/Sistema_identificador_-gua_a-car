@@ -1,0 +1,42 @@
+Circuit: * C:\Users\acer\Documents\PESSOAL\SIFILIS_NAO\Controle_Offset\Offset.asc
+
+WARNING: Less than two connections to node RE.  This node is used by Q:U3:2.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 4.96485
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 5.08031
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Mon Dec 21 19:03:57 2020
+Total elapsed time: 1.071 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 11458
+traniter = 10070
+tranpoints = 5036
+accept = 5033
+rejected = 3
+matrix size = 86
+fillins = 284
+solver = Normal
+Thread vector: 15.3/10.3[2] 3.2/4.4[1] 4.3/6.0[1] 0.6/3.2[1]  2592/500
+Matrix Compiler1: 19.45 KB object code size  8.0/5.9/[1.5]
+Matrix Compiler2: 11.92 KB object code size  3.9/4.2/[0.8]
+
