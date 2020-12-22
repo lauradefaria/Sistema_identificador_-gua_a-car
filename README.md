@@ -1,4 +1,4 @@
-# Sistema identificador de água e açúcar em solução salina
+# Sistema identificador de sal e açúcar em solução
 
 ## Índice
 + [Sobre](#sobre)
@@ -12,7 +12,7 @@ O objetivo desse projeto é construir um sistema de detecção de sal ou açúca
 
 <h2 id="comecando">Começando</h2>
 
-Siga estas instruções para replicar o procedimento. Todos os códigos e arquivos de circuitos se localizam acima.
+Siga estas instruções para replicar o procedimento. Todos os códigos, arquivos de circuitos e imagens se localizam acima.
 
 <h3 id='pre_req'>Pré-requisitos</h3>
 
