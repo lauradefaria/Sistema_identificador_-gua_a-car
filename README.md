@@ -43,6 +43,13 @@ Além do código do arduino, estão localizados acima os códigos da ESP8266 e e
 
 Para executar o código da ESP8266, é preciso instalar a expansão citada anteriormente e a bibliotecas (<a href="https://www.embarcados.com.br/esp8266-com-arduino">link para tutorial</a>).
 
+É necessário instalar as bibliotecas pandas e pyrebase. Para instalar através do Anaconda prompt: 
+```
+Conda install pandas
+```
+```
+Conda install pyrebase
+```
 <h2 id='todo'>Itens concluídos</h2>
 
 - Permitir que o operador do hardware possa utilizar a técnica de voltametria
