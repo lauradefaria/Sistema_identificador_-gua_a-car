@@ -6,6 +6,7 @@
 + [Esquemático e simulações](#sim)
 + [Placa de circuito impresso](#cir)
 + [Códigos](#cod)
++ [Itens concluídos](#con)
 
 <h2 id="sobre">Sobre</h2>
 
@@ -53,7 +54,7 @@ Conda install pyrebase
 ```
 Conda install matplotlib
 ```
-<h2 id='todo'>Itens concluídos</h2>
+<h2 id='con'>Itens concluídos</h2>
 
 - Permitir que o operador do hardware possa utilizar a técnica de voltametria
 cíclica para análise da substância aquosa
