@@ -1,4 +1,4 @@
-# Sistema identificador de sal e açúcar em solução
+# System for identifying salt and sugar in a solution
 
 ## Contents
 + [Motivation](#motivation)
